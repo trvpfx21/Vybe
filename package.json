@@ -1,0 +1,7 @@
+{
+  "name": "vybe-directory",
+  "version": "1.0.0",
+  "private": true,
+  "description": "VYBE — FIND YOUR VIBE. A moderated individual profile directory.",
+  "scripts": { "start": "python server.py", "dev": "python server.py", "seed": "python seed.py" }
+}
